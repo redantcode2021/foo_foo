@@ -75,7 +75,7 @@ class _CameraScreenState extends State<CameraScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text("show ip camera")),
+      appBar: AppBar(title: const Text("Foo ip camera")),
       body: Column(
         children: [
           SizedBox(
